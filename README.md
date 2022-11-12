@@ -7,5 +7,5 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![styledComponents](https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white)
+![styledComponents](https://img.shields.io/badge/Styled-Components-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
